@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain-groq
+duckduckgo-search
+python-dotenv
