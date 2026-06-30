@@ -134,12 +134,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Preview
-
-*(Add screenshots here)*
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repo and contribute!
@@ -154,4 +148,4 @@ This project is open-source and available under the MIT License.
 
 ## 💡 Author
 
-Developed by **Avni Chandan**
+Developed by **Avani J C**
